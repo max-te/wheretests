@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 memmap2 = "0.9.4"
-nextest-runner = "0.55.0"
+# nextest-runner = "0.55.0"
 object = "0.35.0"
 serde = "1.0.202"
 serde_derive = "1.0.202"
